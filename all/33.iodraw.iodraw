@@ -209,7 +209,7 @@
           <mxGeometry x="8648" y="1544" width="215" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-70" value="7. Provision of Learning Resources" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="9334" y="1321" width="60" height="30" as="geometry" />
+          <mxGeometry x="9334" y="1321" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-71" value="Resource Interface" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="9015" y="1419" width="194" height="49" as="geometry" />
@@ -232,7 +232,7 @@
         <mxCell id="6JoS6yt8645J42IoYfTD-77" value="View Materials" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="9664" y="1544" width="165" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="6JoS6yt8645J42IoYfTD-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.52;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="6JoS6yt8645J42IoYfTD-2" target="6JoS6yt8645J42IoYfTD-3">
+        <mxCell id="6JoS6yt8645J42IoYfTD-78" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.52;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="6JoS6yt8645J42IoYfTD-2" target="6JoS6yt8645J42IoYfTD-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="454" y="1296" />
