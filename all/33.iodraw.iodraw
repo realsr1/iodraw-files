@@ -35,7 +35,7 @@
           <mxGeometry x="862" y="1544" width="231" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-11" value="2. Student Homepage" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1385" y="1321" width="60" height="30" as="geometry" />
+          <mxGeometry x="1385" y="1321" width="65" height="59" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-12" value="Personal Information Display" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1024" y="1410" width="209" height="66" as="geometry" />
