@@ -101,7 +101,7 @@
           <mxGeometry x="1350" y="1791" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-336" value="4. Interest Assessment Function" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="899" y="2095" width="60" height="30" as="geometry" />
+          <mxGeometry x="850" y="2095" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-337" value="Assessment Interface" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1033" y="1938" width="212" height="49" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="1360" y="2301" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-345" value="5. Future Career Exploration" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="899" y="2561" width="60" height="30" as="geometry" />
+          <mxGeometry x="899" y="2561" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-346" value="Career Exploration Interface" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1041" y="2440" width="194" height="66" as="geometry" />
