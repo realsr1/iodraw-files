@@ -146,7 +146,7 @@
           <mxGeometry x="1059" y="2672" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-351" value="6. Career Path Planning" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="899" y="3285" width="60" height="30" as="geometry" />
+          <mxGeometry x="899" y="3285" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-352" value="User Input" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1072" y="2770" width="134" height="49" as="geometry" />
