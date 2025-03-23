@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6JoS6yt8645J42IoYfTD-153" value="Career Planning System Modules" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="3797" width="229" height="66" as="geometry" />
+          <mxGeometry x="20" y="3797" width="229" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-154" value="1. Login Registration Interface" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="449" y="1851" width="30" height="30" as="geometry" />
+          <mxGeometry x="260" y="1810" width="219" height="71" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-155" value="2. Student Homepage" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="449" y="2209" width="30" height="30" as="geometry" />
