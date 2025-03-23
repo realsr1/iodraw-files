@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="G1-r4LOlPWyAdykrwLcT">
-    <mxGraphModel dx="2666" dy="2636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="746" dy="1350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="100" y="2103" width="229" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-305" value="1. Login Registration Interface" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="899" y="131" width="60" height="30" as="geometry" />
+          <mxGeometry x="899" y="131" width="131" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-306" value="User Identity Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1032" y="23" width="213" height="49" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="1328" y="296" width="231" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-313" value="2. Student Homepage" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="899" y="489" width="60" height="30" as="geometry" />
+          <mxGeometry x="868.5" y="489" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JoS6yt8645J42IoYfTD-314" value="Personal Information Display" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1034" y="354" width="209" height="66" as="geometry" />
