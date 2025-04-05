@@ -386,7 +386,7 @@
           <mxGeometry x="2229" y="2947" width="250" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-167" value="Course Management Module" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="200" y="3080" width="1550" height="370" as="geometry" />
+          <mxGeometry x="260" y="3080" width="1550" height="370" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-168" value="Structure Setup" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-167">
           <mxGeometry x="18.426873099253523" y="120.46511627906978" width="204.4097318219519" height="201.41767441860466" as="geometry" />
