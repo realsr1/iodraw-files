@@ -401,28 +401,28 @@
           <mxGeometry x="359.853459972863" y="91.73405405405406" width="99.02442333785618" height="75.91783783783785" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-172" value="Resource Management" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-167">
-          <mxGeometry x="830" y="88.69955156950672" width="253" height="285.3811659192825" as="geometry" />
+          <mxGeometry x="560" y="165" width="143" height="184.08" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-173" value="Upload resources" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-172">
-          <mxGeometry x="43" y="111.83856502242152" width="183" height="92.5560538116592" as="geometry" />
+          <mxGeometry x="24.304347826086953" y="72.13945945945946" width="103.43478260869564" height="59.701621621621626" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-174" value="Information Configuration" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-167">
-          <mxGeometry x="1133" y="88.69955156950672" width="1184" height="285.3811659192825" as="geometry" />
+          <mxGeometry x="1260" y="200" width="1057" height="174.08" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-175" value="Set course name" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-174">
-          <mxGeometry x="43" y="111.83856502242152" width="178" height="92.5560538116592" as="geometry" />
+          <mxGeometry x="38.38766891891892" y="68.22054054054054" width="158.9070945945946" height="56.45837837837838" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-176" value="Set introduction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-174">
-          <mxGeometry x="271" y="111.83856502242152" width="176" height="92.5560538116592" as="geometry" />
+          <mxGeometry x="241.93158783783784" y="68.22054054054054" width="157.1216216216216" height="56.45837837837838" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-177" value="Set cover" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-174">
-          <mxGeometry x="497" y="111.83856502242152" width="128" height="92.5560538116592" as="geometry" />
+          <mxGeometry x="443.6900337837838" y="68.22054054054054" width="114.27027027027027" height="56.45837837837838" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-178" value="Set learning objectives" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-174">
-          <mxGeometry x="675" y="111.83856502242152" width="225" height="92.5560538116592" as="geometry" />
+          <mxGeometry x="602.5971283783784" y="68.22054054054054" width="200.86570945945945" height="56.45837837837838" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-179" value="Set target age group" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-174">
-          <mxGeometry x="950" y="111.83856502242152" width="207" height="92.5560538116592" as="geometry" />
+          <mxGeometry x="848.0996621621622" y="68.22054054054054" width="184.7964527027027" height="56.45837837837838" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-180" value="Core Operations" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-167">
           <mxGeometry x="2366" y="88.69955156950672" width="1224" height="285.3811659192825" as="geometry" />
