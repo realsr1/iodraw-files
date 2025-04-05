@@ -464,10 +464,10 @@
           <mxGeometry x="625" y="3830" width="163" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-195" value="Set Question Types" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="609" y="3929" width="195" height="48" as="geometry" />
+          <mxGeometry x="593" y="3928.5" width="195" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-196" value="Set Question Difficulty" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="595" y="4027" width="223" height="48" as="geometry" />
+          <mxGeometry x="565" y="4027" width="223" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-197" value="Set Knowledge Points" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="4027" width="212" height="48" as="geometry" />
