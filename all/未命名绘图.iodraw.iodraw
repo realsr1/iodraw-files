@@ -449,10 +449,10 @@
           <mxGeometry x="893" y="3795" width="221" height="315" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-190" value="" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="3650" width="533" height="559" as="geometry" />
+          <mxGeometry x="310" y="3710" width="533" height="400" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-191" value="Add Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="410.5" y="3747" width="156" height="48" as="geometry" />
+          <mxGeometry x="632" y="3747" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-192" value="Delete Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="411.5" y="3929" width="175" height="48" as="geometry" />
