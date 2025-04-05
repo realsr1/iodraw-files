@@ -407,22 +407,22 @@
           <mxGeometry x="24.304347826086953" y="72.13945945945946" width="103.43478260869564" height="59.701621621621626" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-174" value="Information Configuration" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-167">
-          <mxGeometry x="1260" y="200" width="1057" height="174.08" as="geometry" />
+          <mxGeometry x="740" y="180" width="560" height="169.08" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-175" value="Set course name" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-174">
-          <mxGeometry x="38.38766891891892" y="68.22054054054054" width="158.9070945945946" height="56.45837837837838" as="geometry" />
+          <mxGeometry x="20.33783783783784" y="66.26108108108109" width="84.18918918918921" height="54.836756756756756" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-176" value="Set introduction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-174">
-          <mxGeometry x="241.93158783783784" y="68.22054054054054" width="157.1216216216216" height="56.45837837837838" as="geometry" />
+          <mxGeometry x="128.17567567567568" y="66.26108108108109" width="83.24324324324324" height="54.836756756756756" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-177" value="Set cover" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-174">
-          <mxGeometry x="443.6900337837838" y="68.22054054054054" width="114.27027027027027" height="56.45837837837838" as="geometry" />
+          <mxGeometry x="235.0675675675676" y="66.26108108108109" width="60.54054054054055" height="54.836756756756756" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-178" value="Set learning objectives" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-174">
-          <mxGeometry x="602.5971283783784" y="68.22054054054054" width="200.86570945945945" height="56.45837837837838" as="geometry" />
+          <mxGeometry x="319.25675675675683" y="66.26108108108109" width="106.41891891891892" height="54.836756756756756" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-179" value="Set target age group" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-174">
-          <mxGeometry x="848.0996621621622" y="68.22054054054054" width="184.7964527027027" height="56.45837837837838" as="geometry" />
+          <mxGeometry x="449.3243243243244" y="66.26108108108109" width="97.90540540540542" height="54.836756756756756" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-180" value="Core Operations" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-167">
           <mxGeometry x="2366" y="88.69955156950672" width="1224" height="285.3811659192825" as="geometry" />
