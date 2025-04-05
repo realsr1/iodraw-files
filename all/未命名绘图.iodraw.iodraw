@@ -425,25 +425,25 @@
           <mxGeometry x="449.3243243243244" y="66.26108108108109" width="97.90540540540542" height="54.836756756756756" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-180" value="Core Operations" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-167">
-          <mxGeometry x="2366" y="88.69955156950672" width="1224" height="285.3811659192825" as="geometry" />
+          <mxGeometry x="2780" y="230" width="810" height="144.08" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-181" value="Add course" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-180">
-          <mxGeometry x="43" y="111.83856502242152" width="140" height="92.5560538116592" as="geometry" />
+          <mxGeometry x="28.455882352941174" y="56.46378378378378" width="92.6470588235294" height="46.72864864864865" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-182" value="Create course" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-180">
-          <mxGeometry x="233" y="111.83856502242152" width="160" height="92.5560538116592" as="geometry" />
+          <mxGeometry x="154.19117647058823" y="56.46378378378378" width="105.88235294117646" height="46.72864864864865" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-183" value="Edit course" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-180">
-          <mxGeometry x="442" y="111.83856502242152" width="140" height="92.5560538116592" as="geometry" />
+          <mxGeometry x="292.5" y="56.46378378378378" width="92.6470588235294" height="46.72864864864865" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-184" value="Delete course" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-180">
-          <mxGeometry x="632" y="111.83856502242152" width="159" height="92.5560538116592" as="geometry" />
+          <mxGeometry x="418.2352941176471" y="56.46378378378378" width="105.22058823529412" height="46.72864864864865" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-185" value="Modify course" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-180">
-          <mxGeometry x="841" y="111.83856502242152" width="160" height="92.5560538116592" as="geometry" />
+          <mxGeometry x="556.5441176470588" y="56.46378378378378" width="105.88235294117646" height="46.72864864864865" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-186" value="View course" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-180">
-          <mxGeometry x="1050" y="111.83856502242152" width="147" height="92.5560538116592" as="geometry" />
+          <mxGeometry x="694.8529411764706" y="56.46378378378378" width="97.27941176470588" height="46.72864864864865" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
