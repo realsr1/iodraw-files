@@ -446,45 +446,45 @@
           <mxGeometry x="465.7316176470588" y="70.39162162162161" width="65.20242647058824" height="58.25513513513514" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-189" value="Question Types" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="423" y="3725" width="221" height="315" as="geometry" />
+          <mxGeometry x="893" y="3795" width="221" height="315" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-190" value="Question Bank Management" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="3430" width="273" height="709" as="geometry" />
+          <mxGeometry x="570" y="3500" width="273" height="709" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-191" value="Add Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="158" y="3465" width="156" height="48" as="geometry" />
+          <mxGeometry x="628" y="3535" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-192" value="Delete Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="149" y="3563" width="175" height="48" as="geometry" />
+          <mxGeometry x="619" y="3633" width="175" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-193" value="Modify Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="148" y="3662" width="176" height="48" as="geometry" />
+          <mxGeometry x="618" y="3732" width="176" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-194" value="View Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="155" y="3760" width="163" height="48" as="geometry" />
+          <mxGeometry x="625" y="3830" width="163" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-195" value="Set Question Types" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="139" y="3859" width="195" height="48" as="geometry" />
+          <mxGeometry x="609" y="3929" width="195" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-196" value="Set Question Difficulty" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="125" y="3957" width="223" height="48" as="geometry" />
+          <mxGeometry x="595" y="4027" width="223" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-197" value="Set Knowledge Points" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="4055" width="212" height="48" as="geometry" />
+          <mxGeometry x="600" y="4125" width="212" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-198" value="Multiple-choice" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="448" y="3760" width="171" height="48" as="geometry" />
+          <mxGeometry x="918" y="3830" width="171" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-199" value="True-or-false" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="457" y="3859" width="153" height="48" as="geometry" />
+          <mxGeometry x="927" y="3929" width="153" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-200" value="Fill-in-blank" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="3957" width="147" height="48" as="geometry" />
+          <mxGeometry x="930" y="4027" width="147" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-201" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=-0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="LP0umv7b1jHZVDSvmoCw-195" target="LP0umv7b1jHZVDSvmoCw-198">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="373" y="3784" />
+              <mxPoint x="843" y="3854" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -496,7 +496,7 @@
         <mxCell id="LP0umv7b1jHZVDSvmoCw-203" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="LP0umv7b1jHZVDSvmoCw-195" target="LP0umv7b1jHZVDSvmoCw-200">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="373" y="3981" />
+              <mxPoint x="843" y="4051" />
             </Array>
           </mxGeometry>
         </mxCell>
