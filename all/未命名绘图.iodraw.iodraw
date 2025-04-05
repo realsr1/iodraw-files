@@ -401,13 +401,13 @@
           <mxGeometry x="154.20869863365706" y="78.9339534883721" width="42.43512750170779" height="65.32465116279072" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-172" value="Resource Management" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-167">
-          <mxGeometry x="239.9778822228366" y="141.97674418604652" width="61.28006635333149" height="158.39441860465118" as="geometry" />
+          <mxGeometry x="239.98" y="104.62" width="120.02" height="190.37" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-173" value="Upload resources" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-172">
-          <mxGeometry x="10.415189143056338" y="62.073488372093024" width="44.32510728323977" height="51.37116279069768" as="geometry" />
+          <mxGeometry x="20.39865612648221" y="74.60445945945946" width="86.81288537549405" height="61.741621621621626" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-174" value="Information Configuration" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-167">
-          <mxGeometry x="317.11" y="110" width="362.89" height="190.37" as="geometry" />
+          <mxGeometry x="370" y="104.62" width="362.89" height="190.37" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-175" value="Set course name" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-174">
           <mxGeometry x="13.179282094594594" y="74.60445945945948" width="54.556097972972985" height="61.74162162162162" as="geometry" />
