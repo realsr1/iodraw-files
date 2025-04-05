@@ -448,7 +448,7 @@
         <mxCell id="LP0umv7b1jHZVDSvmoCw-189" value="Question Types" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="893" y="3795" width="221" height="315" as="geometry" />
         </mxCell>
-        <mxCell id="LP0umv7b1jHZVDSvmoCw-190" value="Question Bank Management" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LP0umv7b1jHZVDSvmoCw-190" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="3500" width="533" height="709" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-191" value="Add Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -458,7 +458,7 @@
           <mxGeometry x="619" y="3633" width="175" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-193" value="Modify Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="411" y="3720" width="176" height="48" as="geometry" />
+          <mxGeometry x="419" y="3830" width="176" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-194" value="View Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="625" y="3830" width="163" height="48" as="geometry" />
