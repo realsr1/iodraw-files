@@ -389,16 +389,16 @@
           <mxGeometry x="190" y="3140" width="1360" height="320" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-168" value="Structure Setup" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="258.43" y="3180" width="211.57" height="210.51" as="geometry" />
+          <mxGeometry x="220" y="3200" width="250" height="190.51" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-169" value="Set course chapters" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-168">
-          <mxGeometry x="12.343975576662142" y="82.49716216216216" width="57.70090909090908" height="68.27351351351352" as="geometry" />
+          <mxGeometry x="14.586160108548167" y="74.65932432432432" width="68.18181818181817" height="61.78702702702704" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-170" value="Set knowledge points" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-168">
-          <mxGeometry x="84.39834464043419" y="82.49716216216216" width="60.85867028493893" height="68.27351351351352" as="geometry" />
+          <mxGeometry x="99.72862957937585" y="74.65932432432432" width="71.91316146540026" height="61.78702702702704" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-171" value="Set exercises" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="LP0umv7b1jHZVDSvmoCw-168">
-          <mxGeometry x="159.61047489823608" y="82.49716216216216" width="43.92158751696064" height="68.27351351351352" as="geometry" />
+          <mxGeometry x="180" y="74.66" width="60.5" height="61.79" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-172" value="Resource Management" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="479.98" y="3194.62" width="120.02" height="190.37" as="geometry" />
