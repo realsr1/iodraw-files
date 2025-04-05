@@ -455,7 +455,7 @@
           <mxGeometry x="628" y="3535" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-192" value="Delete Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="619" y="3633" width="175" height="48" as="geometry" />
+          <mxGeometry x="411.5" y="3929" width="175" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-193" value="Modify Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="419" y="3830" width="176" height="48" as="geometry" />
