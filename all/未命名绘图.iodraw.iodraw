@@ -452,7 +452,7 @@
           <mxGeometry x="310" y="3710" width="533" height="400" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-191" value="Add Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="632" y="3747" width="156" height="48" as="geometry" />
+          <mxGeometry x="368" y="3747" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-192" value="Delete Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="358.5" y="3928.5" width="175" height="48" as="geometry" />
