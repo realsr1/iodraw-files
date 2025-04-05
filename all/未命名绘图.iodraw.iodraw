@@ -452,13 +452,13 @@
           <mxGeometry x="310" y="3500" width="533" height="709" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-191" value="Add Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="628" y="3535" width="156" height="48" as="geometry" />
+          <mxGeometry x="410.5" y="3747" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-192" value="Delete Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="411.5" y="3929" width="175" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-193" value="Modify Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="419" y="3830" width="176" height="48" as="geometry" />
+          <mxGeometry x="410.5" y="3830" width="176" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LP0umv7b1jHZVDSvmoCw-194" value="View Question" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="625" y="3830" width="163" height="48" as="geometry" />
