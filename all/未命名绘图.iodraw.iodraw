@@ -500,6 +500,57 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LP0umv7b1jHZVDSvmoCw-204" value="Grade Management Module" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="4327" width="255" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="LP0umv7b1jHZVDSvmoCw-205" value="Student Grade Query" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="425" y="4130" width="182" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="LP0umv7b1jHZVDSvmoCw-206" value="Check Student Test Scores" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="407" y="4228" width="217" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="LP0umv7b1jHZVDSvmoCw-207" value="Class Grade Statistics" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="424" y="4327" width="184" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="LP0umv7b1jHZVDSvmoCw-208" value="Statistics of All Students in Class" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="405" y="4425" width="222" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LP0umv7b1jHZVDSvmoCw-209" value="Grade Report Generation" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="411" y="4541" width="210" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="LP0umv7b1jHZVDSvmoCw-210" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="LP0umv7b1jHZVDSvmoCw-204" target="LP0umv7b1jHZVDSvmoCw-205">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="4154" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LP0umv7b1jHZVDSvmoCw-211" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="LP0umv7b1jHZVDSvmoCw-204" target="LP0umv7b1jHZVDSvmoCw-206">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="4253" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LP0umv7b1jHZVDSvmoCw-212" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="LP0umv7b1jHZVDSvmoCw-204" target="LP0umv7b1jHZVDSvmoCw-207">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LP0umv7b1jHZVDSvmoCw-213" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="LP0umv7b1jHZVDSvmoCw-204" target="LP0umv7b1jHZVDSvmoCw-208">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="4458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LP0umv7b1jHZVDSvmoCw-214" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="LP0umv7b1jHZVDSvmoCw-204" target="LP0umv7b1jHZVDSvmoCw-209">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="4565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
