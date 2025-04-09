@@ -130,6 +130,9 @@
         <mxCell id="deXKLdOfxmAZu2hRSEBb-45" value="Create a course" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-48" value="题库管理模块：与学生管理模块、课程管理模块类似，实现添加、删除、修改、查看试题等功能。&#xa;试卷管理模块：实现创建、编辑、删除试卷，以及从题库中选择题目组成试卷等功能。&#xa;成绩管理模块：实现学生成绩查询、班级成绩统计、生成成绩单等功能。&#xa;公告管理模块：实现发布、修改、删除公告等功能。&#xa;系统设置模块：实现修改教师个人信息、修改密码、设置系统参数等功能。" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1150" width="560" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
