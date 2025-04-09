@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="deXKLdOfxmAZu2hRSEBb-1" value="1. 学生管理模块：&#xa;控制器层：StudentController类负责处理与学生管理相关的请求，例如添加学生、删除学生、修改学生信息等。&#xa;服务层：StudentService接口定义与学生管理相关的业务逻辑，StudentServiceImpl类实现该接口。&#xa;存储库层：StudentRepository接口继承自JpaRepository，提供对学生表的CRUD操作。" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="180" width="560" height="100" as="geometry" />
+          <mxGeometry x="200" y="80" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
