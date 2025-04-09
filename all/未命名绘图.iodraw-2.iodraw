@@ -34,8 +34,8 @@
         <mxCell id="deXKLdOfxmAZu2hRSEBb-6" value="删除学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="425" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="deXKLdOfxmAZu2hRSEBb-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="260" width="120" height="40" as="geometry" />
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-11" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
