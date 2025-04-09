@@ -71,13 +71,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-28" value="teacher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="375" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-30" target="deXKLdOfxmAZu2hRSEBb-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-30" value="Controller Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="375" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-34" target="deXKLdOfxmAZu2hRSEBb-36">
           <mxGeometry relative="1" as="geometry" />
@@ -89,28 +89,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-34" value="Modify student information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="375" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-36" target="deXKLdOfxmAZu2hRSEBb-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-36" value="Add students" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="315" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-38" target="deXKLdOfxmAZu2hRSEBb-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-38" value="Delete a student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="435" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-40" target="deXKLdOfxmAZu2hRSEBb-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-40" value="Service Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="375" width="120" height="60" as="geometry" />
+          <mxGeometry x="1600" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-41" value="Repository Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-44" target="deXKLdOfxmAZu2hRSEBb-40">
           <mxGeometry relative="1" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-44" value="Processing Logic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="375" width="120" height="60" as="geometry" />
+          <mxGeometry x="1440" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
