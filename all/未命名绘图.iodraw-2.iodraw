@@ -61,6 +61,9 @@
         <mxCell id="deXKLdOfxmAZu2hRSEBb-14" value="Processing Logic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="365" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-25" value="2. 课程管理模块：&#xa;控制器层：CourseController类负责处理与课程管理相关的请求，例如创建课程、编辑课程、删除课程等。&#xa;服务层：CourseService接口定义与课程管理相关的业务逻辑，CourseServiceImpl类实现该接口。&#xa;存储库层：CourseRepository接口继承自JpaRepository，提供对课程表的增删改查操作。" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="60" width="510" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
