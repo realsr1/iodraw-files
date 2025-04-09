@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="RtI-Qw68cd1drKJi9FPW">
-    <mxGraphModel dx="1193" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1735" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,6 +63,63 @@
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-25" value="2. 课程管理模块：&#xa;控制器层：CourseController类负责处理与课程管理相关的请求，例如创建课程、编辑课程、删除课程等。&#xa;服务层：CourseService接口定义与课程管理相关的业务逻辑，CourseServiceImpl类实现该接口。&#xa;存储库层：CourseRepository接口继承自JpaRepository，提供对课程表的增删改查操作。" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170" y="60" width="510" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-28" target="deXKLdOfxmAZu2hRSEBb-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-40" target="deXKLdOfxmAZu2hRSEBb-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-28" value="teacher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-30" target="deXKLdOfxmAZu2hRSEBb-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-30" value="Controller Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-34" target="deXKLdOfxmAZu2hRSEBb-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-34" target="deXKLdOfxmAZu2hRSEBb-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-34" target="deXKLdOfxmAZu2hRSEBb-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-34" value="Modify student information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-36" target="deXKLdOfxmAZu2hRSEBb-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-36" value="Add students" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-38" target="deXKLdOfxmAZu2hRSEBb-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-38" value="Delete a student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-40" target="deXKLdOfxmAZu2hRSEBb-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-40" value="Service Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-41" value="Repository Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-44" target="deXKLdOfxmAZu2hRSEBb-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-44" target="deXKLdOfxmAZu2hRSEBb-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-44" value="Processing Logic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="375" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
