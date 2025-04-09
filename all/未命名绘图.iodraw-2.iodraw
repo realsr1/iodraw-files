@@ -193,8 +193,8 @@
         <mxCell id="deXKLdOfxmAZu2hRSEBb-66" value="Login screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="deXKLdOfxmAZu2hRSEBb-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="1350" width="120" height="60" as="geometry" />
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-69" value="Teacher management page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="1470" width="120" height="60" as="geometry" />
