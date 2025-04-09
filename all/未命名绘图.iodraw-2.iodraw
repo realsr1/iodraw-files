@@ -202,7 +202,7 @@
           <mxGeometry x="1030" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-69" value="Teacher management page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="1365" width="120" height="60" as="geometry" />
+          <mxGeometry x="1340" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-70" value="Student learning page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="1475" width="120" height="60" as="geometry" />
@@ -218,6 +218,9 @@
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-77" value="warning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="1275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-87" target="deXKLdOfxmAZu2hRSEBb-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-87" value="register" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="1500" width="120" height="60" as="geometry" />
