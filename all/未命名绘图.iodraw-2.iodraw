@@ -253,7 +253,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-103" value="Get Course List" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1645" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1570" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-106" value="View course details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1570" y="1660" width="120" height="60" as="geometry" />
