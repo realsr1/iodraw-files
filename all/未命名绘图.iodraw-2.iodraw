@@ -13,8 +13,17 @@
         <mxCell id="deXKLdOfxmAZu2hRSEBb-2" value="老师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="365" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-3" target="deXKLdOfxmAZu2hRSEBb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-3" value="控制器层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-4" target="deXKLdOfxmAZu2hRSEBb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deXKLdOfxmAZu2hRSEBb-4" target="deXKLdOfxmAZu2hRSEBb-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="deXKLdOfxmAZu2hRSEBb-4" value="修改学生信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="365" width="120" height="60" as="geometry" />
