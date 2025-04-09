@@ -169,6 +169,9 @@
         <mxCell id="deXKLdOfxmAZu2hRSEBb-59" value="Delete exam paper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="deXKLdOfxmAZu2hRSEBb-62" value="1. 用户登录模块：&#xa;控制器层：AuthController类负责处理用户登录相关的请求。&#xa;服务层：AuthService接口定义与用户登录相关的业务逻辑，AuthServiceImpl类实现该接口。&#xa;存储库层：UserRepository接口继承自JpaRepository，提供对用户表的CRUD操作。&#xa;2. 课程学习模块：&#xa;控制器层：CourseController类负责处理与课程学习相关的请求，例如获取课程列表、获取课程详情等。&#xa;服务层：CourseService接口定义与课程学习相关的业务逻辑，CourseServiceImpl类实现该接口。&#xa;存储库层：CourseRepository接口继承自JpaRepository，提供对课程表的CRUD操作。" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1110" width="560" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
