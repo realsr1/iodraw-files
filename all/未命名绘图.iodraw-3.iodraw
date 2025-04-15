@@ -46,8 +46,11 @@
         <mxCell id="yRs1j-GGSpUq-aa8gaxp-12" value="Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yRs1j-GGSpUq-aa8gaxp-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yRs1j-GGSpUq-aa8gaxp-14" value="End" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yRs1j-GGSpUq-aa8gaxp-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
