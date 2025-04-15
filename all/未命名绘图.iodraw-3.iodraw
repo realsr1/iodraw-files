@@ -67,6 +67,12 @@
         <mxCell id="yRs1j-GGSpUq-aa8gaxp-19" value="Mentoring skills" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yRs1j-GGSpUq-aa8gaxp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yRs1j-GGSpUq-aa8gaxp-20" target="yRs1j-GGSpUq-aa8gaxp-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yRs1j-GGSpUq-aa8gaxp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yRs1j-GGSpUq-aa8gaxp-20" target="yRs1j-GGSpUq-aa8gaxp-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yRs1j-GGSpUq-aa8gaxp-20" value="Teaching Effect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="730" width="120" height="60" as="geometry" />
         </mxCell>
