@@ -46,6 +46,97 @@
         <mxCell id="K_3yuq4tkTTSjQpb4K_Y-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K_3yuq4tkTTSjQpb4K_Y-6" target="K_3yuq4tkTTSjQpb4K_Y-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-16" value="Overall tutoring quality" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="671" width="228" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-17" value="Tutor competence" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="365" y="469" width="160" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-18" value="Qualifications" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="625" y="420" width="129" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-19" value="Subject knowledge" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="606" y="519" width="165" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-20" value="Teaching effectiveness" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="348" y="671" width="192" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-21" value="Clarity of explanations" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="593" y="617" width="193" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-22" value="Adaptability to student needs" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="591" y="716" width="197" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-23" value="Student outcomes" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="365" y="885" width="159" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-24" value="Improved grades" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="615" y="832" width="149" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-25" value="Increased subject confidence" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="611" y="930" width="157" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="K_3yuq4tkTTSjQpb4K_Y-16" target="K_3yuq4tkTTSjQpb4K_Y-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="323" y="494" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="K_3yuq4tkTTSjQpb4K_Y-17" target="K_3yuq4tkTTSjQpb4K_Y-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="444" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0.99;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="K_3yuq4tkTTSjQpb4K_Y-17" target="K_3yuq4tkTTSjQpb4K_Y-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="543" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="K_3yuq4tkTTSjQpb4K_Y-16" target="K_3yuq4tkTTSjQpb4K_Y-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=-0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="K_3yuq4tkTTSjQpb4K_Y-20" target="K_3yuq4tkTTSjQpb4K_Y-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="641" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=0.98;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="K_3yuq4tkTTSjQpb4K_Y-20" target="K_3yuq4tkTTSjQpb4K_Y-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="749" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=0.98;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="K_3yuq4tkTTSjQpb4K_Y-16" target="K_3yuq4tkTTSjQpb4K_Y-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="323" y="909" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="K_3yuq4tkTTSjQpb4K_Y-23" target="K_3yuq4tkTTSjQpb4K_Y-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="856" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_3yuq4tkTTSjQpb4K_Y-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="K_3yuq4tkTTSjQpb4K_Y-23" target="K_3yuq4tkTTSjQpb4K_Y-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="963" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
