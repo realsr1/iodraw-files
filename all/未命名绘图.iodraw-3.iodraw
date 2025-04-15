@@ -91,6 +91,12 @@
         <mxCell id="yRs1j-GGSpUq-aa8gaxp-28" value="Subject knowledge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yRs1j-GGSpUq-aa8gaxp-32" value="Qualifications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yRs1j-GGSpUq-aa8gaxp-33" value="Subject knowledge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
