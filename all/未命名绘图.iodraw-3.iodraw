@@ -25,6 +25,9 @@
         <mxCell id="yRs1j-GGSpUq-aa8gaxp-4" value="Conduct counseling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yRs1j-GGSpUq-aa8gaxp-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
