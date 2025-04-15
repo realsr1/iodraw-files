@@ -85,7 +85,7 @@
         <mxCell id="yRs1j-GGSpUq-aa8gaxp-27" value="Qualifications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yRs1j-GGSpUq-aa8gaxp-28" value="Increased confidence in the subject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yRs1j-GGSpUq-aa8gaxp-28" value="Subject knowledge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
