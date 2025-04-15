@@ -56,7 +56,7 @@
           <mxGeometry x="140" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRs1j-GGSpUq-aa8gaxp-19" value="Mentoring skills" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRs1j-GGSpUq-aa8gaxp-20" value="Teaching Effect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="680" width="120" height="60" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="470" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRs1j-GGSpUq-aa8gaxp-23" value="Increased confidence in the subject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
